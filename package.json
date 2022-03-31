@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@vitest/ui": "latest",
-    "immer": "^9.0.12",
+    "immer": "latest",
     "vite": "latest",
     "vitest": "latest"
   }
