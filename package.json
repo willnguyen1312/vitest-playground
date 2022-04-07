@@ -1,17 +1,9 @@
 {
   "name": "vitest-playground",
-  "private": true,
-  "license": "MIT",
-  "type": "module",
-  "main": "index.js",
   "scripts": {
-    "test": "vitest",
-    "test:ui": "vitest --ui",
-    "test:run": "vitest run"
+    "test": "vitest"
   },
   "devDependencies": {
-    "@vitest/ui": "latest",
-    "immer": "latest",
     "vite": "latest",
     "vitest": "latest"
   }
