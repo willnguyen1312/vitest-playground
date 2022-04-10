@@ -10,9 +10,9 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@vitest/ui": "latest",
-    "immer": "latest",
-    "vite": "latest",
-    "vitest": "latest"
+    "@vitest/ui": "^0.9.3",
+    "immer": "^9.0.12",
+    "vite": "^2.9.1",
+    "vitest": "^0.9.3"
   }
 }
