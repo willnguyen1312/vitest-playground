@@ -14,5 +14,8 @@
     "immer": "^9.0.14",
     "vite": "^2.9.9",
     "vitest": "^0.12.6"
+  },
+  "dependencies": {
+    "json-api-normalizer": "^1.0.4"
   }
 }
