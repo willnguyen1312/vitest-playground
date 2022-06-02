@@ -10,12 +10,12 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@vitest/ui": "^0.12.6",
     "immer": "^9.0.14",
     "vite": "^2.9.9",
-    "vitest": "^0.12.6"
+    "vitest": "^0.13.1"
   },
   "dependencies": {
-    "json-api-normalizer": "^1.0.4"
+    "json-api-normalizer": "^1.0.4",
+    "lodash-es": "^4.17.21"
   }
 }
