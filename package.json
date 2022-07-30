@@ -10,14 +10,14 @@
     "test:run": "vitest run"
   },
   "devDependencies": {
-    "@types/node": "^18.0.0",
+    "@types/node": "^18.6.2",
     "immer": "^9.0.15",
-    "vite": "^2.9.13",
-    "vitest": "^0.16.0"
+    "vite": "^3.0.4",
+    "vitest": "^0.19.1"
   },
   "dependencies": {
-    "@babel/parser": "^7.18.5",
-    "acorn": "^8.7.1",
+    "@babel/parser": "^7.18.9",
+    "acorn": "^8.8.0",
     "json-api-normalizer": "^1.0.4",
     "lodash-es": "^4.17.21"
   }
